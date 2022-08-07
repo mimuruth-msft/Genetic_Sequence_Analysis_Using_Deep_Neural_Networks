@@ -1,1 +1,1 @@
-# Genetic_Sequence_Analysis_Using_DNN
+# Genetic_Sequence_Analysis_Using_Deep_Neural_Networks
